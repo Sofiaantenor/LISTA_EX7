@@ -1,0 +1,13 @@
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\bin\Debug\netcoreapp3.1\AMS_Ex7_22.exe
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\bin\Debug\netcoreapp3.1\AMS_Ex7_22.deps.json
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\bin\Debug\netcoreapp3.1\AMS_Ex7_22.runtimeconfig.json
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\bin\Debug\netcoreapp3.1\AMS_Ex7_22.runtimeconfig.dev.json
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\bin\Debug\netcoreapp3.1\AMS_Ex7_22.dll
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\bin\Debug\netcoreapp3.1\AMS_Ex7_22.pdb
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\obj\Debug\netcoreapp3.1\AMS_Ex7_22.csprojAssemblyReference.cache
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\obj\Debug\netcoreapp3.1\AMS_Ex7_22.AssemblyInfoInputs.cache
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\obj\Debug\netcoreapp3.1\AMS_Ex7_22.AssemblyInfo.cs
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\obj\Debug\netcoreapp3.1\AMS_Ex7_22.csproj.CoreCompileInputs.cache
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\obj\Debug\netcoreapp3.1\AMS_Ex7_22.dll
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\obj\Debug\netcoreapp3.1\AMS_Ex7_22.pdb
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex7_22\obj\Debug\netcoreapp3.1\AMS_Ex7_22.genruntimeconfig.cache
